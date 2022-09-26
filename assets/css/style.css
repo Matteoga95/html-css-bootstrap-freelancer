@@ -8,3 +8,11 @@
 .bg_header{
     background-color: var(--bg_header);
 }
+
+.bg_prymary{
+    background-color: var(--bg_primary);;
+}
+
+.w_100{
+    width: 20%;
+}
