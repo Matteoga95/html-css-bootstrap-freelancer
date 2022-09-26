@@ -9,6 +9,10 @@
     background-color: var(--bg_header);
 }
 
+.bg_header_soft{
+    background-color: var(--bg_header_soft);
+}
+
 .bg_prymary{
     background-color: var(--bg_primary);;
 }
@@ -20,4 +24,11 @@
 .container_60{
     width: 60%;
  
+}
+.container_90{
+    width: 90%;
+ 
+}
+.fs_6{
+    font-size: 8px;
 }
