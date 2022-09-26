@@ -1,0 +1,10 @@
+:root{
+    --bg_header: #2c3e50;
+    --bg_header_soft: #3a546d;
+    --bg_primary:#1abc9c;
+
+}
+
+.bg_header{
+    background-color: var(--bg_header);
+}
