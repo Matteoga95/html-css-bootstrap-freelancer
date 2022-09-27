@@ -19,6 +19,10 @@
     background-color: var(--bg_primary);;
 }
 
+.btn-primary{
+    background-color: var(--bg_primary);;
+}
+
 
 .fs_6{
     font-size: 8px;
