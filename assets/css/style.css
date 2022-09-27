@@ -5,6 +5,8 @@
 
 }
 
+
+
 .bg_header{
     background-color: var(--bg_header);
 }
@@ -13,22 +15,54 @@
     background-color: var(--bg_header_soft);
 }
 
-.bg_prymary{
+.bg_primary{
     background-color: var(--bg_primary);;
 }
 
-.w_100{
-    width: 20%;
-}
 
-.container_60{
-    width: 60%;
- 
-}
-.container_90{
-    width: 90%;
- 
-}
 .fs_6{
     font-size: 8px;
 }
+
+/* #region debug */
+
+.debug [class^="col"]{
+    background-color: red;
+    border: 1px solid;
+    height: 240px;
+
+}
+
+.debug header{
+    height: 80px;
+
+}
+
+ .jumbotron{
+  
+}
+.avatar{
+    width: 30%;
+    padding-top: 5rem;
+    margin-top: 2rem;
+    margin: auto;
+}
+
+.star_line{
+    position: relative;
+    border: none;
+    height: 4px;
+    background: white;
+    opacity: 1;
+    width: 10%;
+   text-align: center;
+    
+}
+.d_inline{
+    display: inline;
+}
+
+
+
+/* #endregion debug */
+
