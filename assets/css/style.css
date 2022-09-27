@@ -66,6 +66,19 @@
     display: block;
 }
 
+.link{
+    text-decoration: none;
+    color: var(--bg_primary);
+}
+
+i.fa {
+    display: inline-block;
+    border-radius: 50%;
+border-color: white;
+border: 1px solid ;
+    padding: 0.5em 0.6em;
+  
+  }
 
 
 /* #endregion debug */
